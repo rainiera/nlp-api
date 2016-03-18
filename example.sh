@@ -1,0 +1,1 @@
+conda create --name nlp-api python=2.7 Flask Flask-WTF nltk beautifulsoup4 bokeh networkx numpy scikit-learn seaborn simplejson six snowballstemmer
