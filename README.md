@@ -1,3 +1,6 @@
+This project has moved to the Natural Language Processing Collective at
+[nlp-api](https://github.com/nlp-collective/nlp-api)
+
 # nlp-api [hard WIP]
 
 A simple API servicing common natural language processing techniques
